@@ -32,7 +32,7 @@ My name is Viviane Huguette and I'm an IT technician by profession who wants to 
 <body>
    <p><a href="https://www.linkedin.com/feed/">My linkedin profile</a></p>
    <p><a href="https://github.com/">My Github</a></p>
-   <p> I'll add more links if needed :)</p>
+   <p> I'll add more links if needed :</p>
 </body>
 </html>
 
@@ -55,5 +55,3 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 
 
 
-
->>>>>>> edfa818 (Initial commit)
