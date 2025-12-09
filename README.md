@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ViviFolio
 =======
 # My Portfolio
