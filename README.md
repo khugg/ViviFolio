@@ -21,7 +21,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 - [Contributing](#contributing)
 
 ## Introduction
-My name is Viviane Huguette and I'm an IT technician by profession who wants to learn more about the Cloud. Through this portfolio, I will share my various achievements and projects in the field cloud engineering.
+My name is Viviane Huguette and I'm an IT technician by profession who wants to learn more about Data Analysis. Through this portfolio, I will share my various achievements and projects in the field Data Analysis.
 
 ## Social Links
 
