@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.424e422e.js",
-    "static/media/Heroimages.jpg": "/static/media/Heroimages.2d7fa8b2042d802fa042.jpg",
-    "index.html": "/index.html",
-    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.424e422e.js.map": "/static/js/main.424e422e.js.map"
+    "main.css": "/khugg/ViviFolio/static/css/main.bf538fe7.css",
+    "main.js": "/khugg/ViviFolio/static/js/main.3963f77b.js",
+    "static/media/Heroimages.jpg": "/khugg/ViviFolio/static/media/Heroimages.2d7fa8b2042d802fa042.jpg",
+    "index.html": "/khugg/ViviFolio/index.html",
+    "main.bf538fe7.css.map": "/khugg/ViviFolio/static/css/main.bf538fe7.css.map",
+    "main.3963f77b.js.map": "/khugg/ViviFolio/static/js/main.3963f77b.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.424e422e.js"
+    "static/js/main.3963f77b.js"
   ]
 }
