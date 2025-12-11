@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ViviFolio/static/css/main.bf538fe7.css",
-    "main.js": "/ViviFolio/static/js/main.2ff2b072.js",
+    "main.js": "/ViviFolio/static/js/main.e713956f.js",
     "static/media/Heroimages.jpg": "/ViviFolio/static/media/Heroimages.2d7fa8b2042d802fa042.jpg",
     "index.html": "/ViviFolio/index.html",
     "main.bf538fe7.css.map": "/ViviFolio/static/css/main.bf538fe7.css.map",
-    "main.2ff2b072.js.map": "/ViviFolio/static/js/main.2ff2b072.js.map"
+    "main.e713956f.js.map": "/ViviFolio/static/js/main.e713956f.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.2ff2b072.js"
+    "static/js/main.e713956f.js"
   ]
 }
